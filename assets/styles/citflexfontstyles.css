@@ -1,0 +1,271 @@
+@font-face {
+    font-family: Candal;
+    /* src: url("https://creatives.citrusberry.biz/fonts/AirbnbCereal-Light.ttf"); */
+    font-weight: bold;
+    src: url("../fonts/Candal-Regular.ttf") format("truetype");;
+  }
+
+  .gridjs-thead {
+    background : "linear-gradient(45deg,#e6e4fc,#fceded) !important";
+  }
+
+  th .gridjs-th {
+    background : "linear-gradient(45deg,#e6e4fc,#fceded) !important";
+  }
+
+  .gridjs-th {
+    background : "linear-gradient(45deg,#e6e4fc,#fceded) !important";
+  }
+
+  .css-52dxnr[aria-selected=true], .css-52dxnr[data-selected] {
+    /* color: "#510725 !important"; */
+  }
+  
+  .btn-90,
+  .btn-90 *,
+  .btn-90 :after,
+  .btn-90 :before,
+  .btn-90:after,
+  .btn-90:before {
+    border: 0 solid;
+    box-sizing: border-box;
+  }
+  .btn-90 {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-appearance: button;
+    background-color: #000;
+    background-image: none;
+    color: #fff;
+    cursor: pointer;
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+      Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
+      Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    font-size: 100%;
+    font-weight: 900;
+    line-height: 1.5;
+    margin: 0;
+    -webkit-mask-image: -webkit-radial-gradient(#000, #fff);
+    padding: 0;
+  }
+  .btn-90:disabled {
+    cursor: default;
+  }
+  .btn-90:-moz-focusring {
+    outline: auto;
+  }
+  .btn-90 svg {
+    display: block;
+    vertical-align: middle;
+  }
+  .btn-90 [hidden] {
+    display: none;
+  }
+  .btn-90 {
+    --size: 60px;
+    background: none;
+    border-radius: 999px;
+    box-sizing: border-box;
+    display: block;
+    -webkit-mask-image: none;
+    padding: 20px 0;
+    position: relative;
+    text-transform: uppercase;
+  }
+  .btn-90 span {
+    font-weight: 900;
+    mix-blend-mode: difference;
+  }
+  .btn-90 .blobs {
+    filter: url(#goo);
+    inset: 0;
+    pointer-events: none;
+    position: absolute;
+  }
+  .btn-90 .blobs:after,
+  .btn-90 .blobs:before {
+    background: #a485f2;
+    border-radius: 50%;
+    content: "";
+    height: var(--size);
+    pointer-events: none;
+    position: absolute;
+    top: calc(50% - var(--size) / 2);
+    transition: transform 0.8s;
+    width: var(--size);
+  }
+  .btn-90 .blobs:before {
+    left: 100%;
+  }
+  .btn-90 .blobs:after {
+    right: 100%;
+  }
+  .btn-90:hover .blobs:before {
+    transform: translateX(-100%);
+  }
+  .btn-90:hover .blobs:after {
+    transform: translateX(100%);
+  }
+
+  /* span  {
+    color:#36dd67;
+    font-family: AirCerealNormalText;
+    font-weight: '700'
+  } */
+  /* Gooey button Implementation
+                              <button class='btn-90'>
+                            <div class='blobs'></div>
+                            <span>Analyze</span>
+                            </button>
+                            <svg width='0' height='0'>
+                            <defs>
+                                <filter id='goo'>
+                                <feGaussianBlur in='SourceGraphic' stdDeviation='10' result='blur' />
+                                <feColorMatrix
+                                    in='blur'
+                                    type='matrix'
+                                    values='1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -7'
+                                    result='goo'
+                                />
+                                <feBlend in='SourceGraphic' in2='goo' />
+                                </filter>
+                            </defs>
+                            </svg>  
+                            */
+
+  .btn-101,
+.btn-101 *,
+.btn-101 :after,
+.btn-101 :before,
+.btn-101:after,
+.btn-101:before {
+  border: 0 solid;
+  box-sizing: border-box;
+}
+.btn-101 {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-appearance: button;
+  background-color: #000;
+  background-image: none;
+  color: #fff;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  font-size: 100%;
+  font-weight: 900;
+  line-height: 1.5;
+  margin: 0;
+  /* -webkit-mask-image: -webkit-radial-gradient(#000, #fff); */
+  padding: 0;
+  /* text-transform: uppercase; */
+}
+.btn-101:disabled {
+  cursor: default;
+}
+.btn-101:-moz-focusring {
+  outline: auto;
+}
+.btn-101 svg {
+  vertical-align: middle;
+}
+.btn-101 [hidden] {
+  display: none;
+}
+.btn-101 {
+  --thickness: 0.3rem;
+  --roundness: 1rem;
+  --color: #eff6ff;
+  --opacity: 0.6;
+  -webkit-backdrop-filter: blur(100px);
+  backdrop-filter: blur(100px);
+  background: none;
+  background: #a3ce55;
+  border: none;
+  border-radius: var(--roundness);
+  border-color: #a3ce55;
+  color: var(--color);
+  cursor: pointer;
+  display: block;
+  font-family: AirCereal, "sans-serif";
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 0.8rem 3rem;
+  position: relative;
+}
+.btn-101:hover {
+  filter: brightness(1.2);
+  border-color: #a3ce55;
+
+}
+.btn-101:active {
+  --opacity: 0;
+  background: #a3ce55;
+}
+.btn-101 svg {
+  border-radius: var(--roundness);
+  display: block;
+  filter: url(#glow);
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+.btn-101 rect {
+  fill: none;
+  stroke: var(--color);
+  stroke-width: var(--thickness);
+  rx: var(--roundness);
+  stroke-linejoin: round;
+  stroke-dasharray: 185%;
+  stroke-dashoffset: 80;
+  -webkit-animation: snake 2s linear infinite;
+  animation: snake 2s linear infinite;
+  -webkit-animation-play-state: paused;
+  animation-play-state: paused;
+  height: 100%;
+  opacity: 0;
+  transition: opacity 0.2s;
+  width: 100%;
+}
+.btn-101:hover rect {
+  -webkit-animation-play-state: running;
+  animation-play-state: running;
+  opacity: var(--opacity);
+}
+@-webkit-keyframes snake {
+  to {
+    stroke-dashoffset: 370%;
+  }
+}
+@keyframes snake {
+  to {
+    stroke-dashoffset: 370%;
+  }
+}
+/* Glow button implementation
+<button class='btn-101'>
+  Glow Button
+  <svg>
+    <defs>
+      <filter id='glow'>
+        <fegaussianblur result='coloredBlur' stddeviation='5'></fegaussianblur>
+        <femerge>
+          <femergenode in='coloredBlur'></femergenode>
+          <femergenode in='coloredBlur'></femergenode>
+          <femergenode in='coloredBlur'></femergenode>
+          <femergenode in='SourceGraphic'></femergenode>
+        </femerge>
+      </filter>
+    </defs>
+    <rect />
+  </svg>
+</button>
+*/
+@keyframes fadeInAnimation {
+  0% {
+      opacity: 0;
+  }
+  100% {
+      opacity: 1;
+   }
+}

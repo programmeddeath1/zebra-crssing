@@ -1,0 +1,2663 @@
+[
+    {
+        "keyword_list": [
+            {
+                "Keywords": "- Task force"
+            },
+            {
+                "Keywords": "- Logistics cost framework"
+            },
+            {
+                "Keywords": "- Time-bound fashion"
+            },
+            {
+                "Keywords": "- Commerce and industry ministry"
+            },
+            {
+                "Keywords": "- Workshop"
+            },
+            {
+                "Keywords": "- Department for Promotion of Industry and Internal Trade"
+            },
+            {
+                "Keywords": "- NITI Aayog"
+            },
+            {
+                "Keywords": "- Ministry of Statistics and Programme Implementation"
+            },
+            {
+                "Keywords": "- National Council of Applied Economic Research"
+            },
+            {
+                "Keywords": "- Stakeholders"
+            }
+        ],
+        "df": [
+            {
+                "IAB Category": "Vehicles        "
+            },
+            {
+                "IAB Category": "Shipping        "
+            },
+            {
+                "IAB Category": "Transportation "
+            },
+            {
+                "IAB Category": "Maritime        "
+            },
+            {
+                "IAB Category": "Logistics       "
+            },
+            {
+                "IAB Category": "Industrial Goods"
+            },
+            {
+                "IAB Category": "Infrastructure  "
+            },
+            {
+                "IAB Category": "Engineering     "
+            },
+            {
+                "IAB Category": "Machinery       "
+            },
+            {
+                "IAB Category": "Water           "
+            }
+        ],
+        "df1": [
+            {
+                "Brand Names": " Maersk           "
+            },
+            {
+                "Brand Names": " CMA CGM          "
+            },
+            {
+                "Brand Names": " MSC              "
+            },
+            {
+                "Brand Names": " Hapag-Lloyd      "
+            },
+            {
+                "Brand Names": " COSCO            "
+            },
+            {
+                "Brand Names": " Evergreen Marine "
+            },
+            {
+                "Brand Names": " OOCL             "
+            },
+            {
+                "Brand Names": " A.P. Moller-Maersk Group "
+            },
+            {
+                "Brand Names": " NYK Line         "
+            },
+            {
+                "Brand Names": " PIL              "
+            }
+        ],
+        "df2": [
+            {
+                "Brand Names": " Adani Ports and SEZ   "
+            },
+            {
+                "Brand Names": " Mundra Port and SEZ   "
+            },
+            {
+                "Brand Names": " Essar Ports           "
+            },
+            {
+                "Brand Names": " JNPT (Jawaharlal Nehru Port Trust) "
+            },
+            {
+                "Brand Names": " Krishnapatnam Port    "
+            },
+            {
+                "Brand Names": " V.O. Chidambaranar Port "
+            },
+            {
+                "Brand Names": " Kandla Port Trust     "
+            },
+            {
+                "Brand Names": " Chennai Port Trust    "
+            },
+            {
+                "Brand Names": " Visakhapatnam Port Trust "
+            },
+            {
+                "Brand Names": " Cochin Port Trust     "
+            }
+        ],
+        "df3": [
+            {
+                "Website Name": "Autotrader",
+                "IAB Category": "Vehicles"
+            },
+            {
+                "Website Name": "MarineTraffic",
+                "IAB Category": "Shipping"
+            },
+            {
+                "Website Name": "FlightAware",
+                "IAB Category": "Transportation"
+            },
+            {
+                "Website Name": "Maritime-executive.com",
+                "IAB Category": "Maritime"
+            },
+            {
+                "Website Name": "Inboundlogistics.com",
+                "IAB Category": "Logistics"
+            },
+            {
+                "Website Name": "Thomasnet.com",
+                "IAB Category": "Industrial Goods"
+            },
+            {
+                "Website Name": "Civil Engineering News",
+                "IAB Category": "Infrastructure"
+            },
+            {
+                "Website Name": "IEEE Spectrum",
+                "IAB Category": "Engineering"
+            },
+            {
+                "Website Name": "MachineryTrader",
+                "IAB Category": "Machinery"
+            },
+            {
+                "Website Name": "BBC Weather",
+                "IAB Category": "Water"
+            }
+        ],
+        "df4": [
+            {
+                "Website Name": "Shipping News India",
+                "IAB Category": "Shipping"
+            },
+            {
+                "Website Name": "Logistics Insider",
+                "IAB Category": "Logistics"
+            },
+            {
+                "Website Name": "Maritime Gateway",
+                "IAB Category": "Maritime"
+            },
+            {
+                "Website Name": "IRCTC (Indian Railways)",
+                "IAB Category": "Transportation"
+            },
+            {
+                "Website Name": "Infrastructure Today",
+                "IAB Category": "Infrastructure"
+            },
+            {
+                "Website Name": "TradeIndia",
+                "IAB Category": "Trade"
+            },
+            {
+                "Website Name": "Supply Chain Management Review India",
+                "IAB Category": "Supply Chain"
+            },
+            {
+                "Website Name": "Economic Times",
+                "IAB Category": "Business News"
+            },
+            {
+                "Website Name": "Port of Chennai",
+                "IAB Category": "Ports"
+            },
+            {
+                "Website Name": "CargoTalk",
+                "IAB Category": "Cargo"
+            }
+        ],
+        "df5": [
+            {
+                "Website Name": "Seatrade Maritime News",
+                "IAB Category": "Shipping"
+            },
+            {
+                "Website Name": "Transport Topics",
+                "IAB Category": "Logistics"
+            },
+            {
+                "Website Name": "TradeWinds",
+                "IAB Category": "Maritime"
+            },
+            {
+                "Website Name": "CNN",
+                "IAB Category": "Transportation"
+            },
+            {
+                "Website Name": "Construction Dive",
+                "IAB Category": "Infrastructure"
+            },
+            {
+                "Website Name": "Global Trade Magazine",
+                "IAB Category": "Trade"
+            },
+            {
+                "Website Name": "Supply Chain Digital",
+                "IAB Category": "Supply Chain"
+            },
+            {
+                "Website Name": "Reuters",
+                "IAB Category": "Business News"
+            },
+            {
+                "Website Name": "Port Technology",
+                "IAB Category": "Ports"
+            },
+            {
+                "Website Name": "Cargo News Asia",
+                "IAB Category": "Cargo"
+            }
+        ],
+        "df6": [
+            {
+                "Website Name": "Marine Insight",
+                "IAB Category": "Shipping"
+            },
+            {
+                "Website Name": "Logistics Insider",
+                "IAB Category": "Logistics"
+            },
+            {
+                "Website Name": "Maritime Gateway",
+                "IAB Category": "Maritime"
+            },
+            {
+                "Website Name": "Economic Times",
+                "IAB Category": "Transportation"
+            },
+            {
+                "Website Name": "Construction Week Online India",
+                "IAB Category": "Infrastructure"
+            },
+            {
+                "Website Name": "Trade India",
+                "IAB Category": "Trade"
+            },
+            {
+                "Website Name": "Supply Chain Management Review India",
+                "IAB Category": "Supply Chain"
+            },
+            {
+                "Website Name": "Business Standard",
+                "IAB Category": "Business News"
+            },
+            {
+                "Website Name": "Port of Chennai",
+                "IAB Category": "Ports"
+            },
+            {
+                "Website Name": "Cargo Talk",
+                "IAB Category": "Cargo"
+            }
+        ],
+        "url": "https://indianexpress.com/article/business/dpiit-to-set-up-task-force-for-formulating-logistics-cost-framework-8509687/",
+        "image": "https://images.indianexpress.com/2023/03/visakhapatnam-port.jpg",
+        "title": "DPIIT to set up task force for formulating logistics cost framework",
+        "text": "Task force will be established for formulating a logistics cost framework in a time-bound fashion (Representational/file pic)\n\nA task force will be set up for formulating a framework to determine logistics costs in the country, the commerce and industry ministry has said.It was decided in a workshop organised by Department for Promotion of Industry and Internal Trade (DPIIT) on the subject, on Monday.The task force members would include representatives from NITI Aayog, Ministry of Statistics and Programme Implementation (MOSPI), National Council of Applied Economic Research (NCAER), academic experts and other stakeholders.It \u201cwill be established for formulating a logistics cost framework in a time-bound fashion,\u201d it said.The workshop on logistics cost framework was organised in partnership with Asian Development Bank (ADB). Speaking at the workshop, Commerce and Industry Minister Piyush Goyal suggested taking note of India\u2019s geography, terrain, size and complexities, trade volume and value etc while calculating the logistics cost.He said e-commerce, smarter free trade agreements, adopting international quality standards, good manufacturing practices, leveraging on successful startups ecosystem, drone technology, artificial intelligence and centre-state partnerships will work towards catalyzing India\u2019s development.",
+        "tags": [
+            "container ",
+            " port ",
+            " cargo ship ",
+            " crane ",
+            " water ",
+            " ship ",
+            " large"
+        ],
+        "caption": "a large cargo ship in the water with a crane on top of it",
+        "sff1": "Positive : ",
+        "sentiment_disp_value": 8.5,
+        "sentiment_filled_bg": "green",
+        "sentiment_empty_bg": "green.100",
+        "iab_safety_response_msg": "",
+        "iab_response_msg": "",
+        "pff1": "Here is a table with a single column listing 10 global brands whose tone of voice may resonate with the given tags:",
+        "pfl1": "These brands are well-known in the shipping and logistics industry and are associated with container shipping, ports, cargo ships, and related activities.",
+        "pff2": "Here is a table with a single column listing 10 Indian brands whose tone of voice may resonate with the given tags:",
+        "pfl2": "These brands are prominent in the Indian port and logistics industry and are associated with container shipping, ports, cargo ships, and related activities in India.",
+        "pff3": "Here is a table with two columns listing a suggested list of top 10 global website inventory to run ads for the brands associated with the given tags. The table includes IAB categories and website names:",
+        "pfl3": "Please keep in mind that the selection of website inventory may depend on various factors such as the target audience, ad budget, and campaign objectives. This list is provided as a starting point and can be customized based on specific requirements.",
+        "pff4": "Here is a table with two columns listing a suggested list of top 10 Indian website inventory to run ads for the brands associated with the given tags. The table includes IAB categories and website names:",
+        "pfl4": "Please note that this is a suggested list and you may want to further research and target websites based on your specific industry, campaign goals, and target audience.",
+        "pff5": "Here is a table with two columns listing a suggested list of top 10 news website inventories to run ads for the brands associated with the given tags. The table includes IAB categories and website names:",
+        "pfl5": "Please note that this is a suggested list and you may want to further research and select news websites based on their relevance, reach, and target audience for your brand ads.",
+        "pff6": "Here is a table with two columns listing a suggested list of top 10 Indian news website inventories to run ads for the brands associated with the given tags. The table includes IAB categories and website names:",
+        "pfl6": "Please note that this is a suggested list and you may want to further research and select Indian news websites based on their relevance, reach, and target audience for your brand ads.",
+        "local_image": "data/images/image_0.jpg"
+    },
+    {
+        "keyword_list": [
+            {
+                "Keywords": "1. India"
+            },
+            {
+                "Keywords": "2. Logistic Performance Index (LPI)"
+            },
+            {
+                "Keywords": "3. Ranking"
+            },
+            {
+                "Keywords": "4. World Bank"
+            },
+            {
+                "Keywords": "5. Investments"
+            },
+            {
+                "Keywords": "6. Soft infrastructure"
+            },
+            {
+                "Keywords": "7. Hard infrastructure"
+            },
+            {
+                "Keywords": "8. Technology"
+            },
+            {
+                "Keywords": "9. PM Gati Shakti"
+            },
+            {
+                "Keywords": "10. National Logistics Policy (NLP)"
+            }
+        ],
+        "df": [
+            {
+                "IAB Category": "Travel            "
+            },
+            {
+                "IAB Category": "Automotive        "
+            },
+            {
+                "IAB Category": "Aviation          "
+            },
+            {
+                "IAB Category": "Transportation    "
+            },
+            {
+                "IAB Category": "Infrastructure    "
+            },
+            {
+                "IAB Category": "Urban Planning    "
+            },
+            {
+                "IAB Category": "Road & Traffic    "
+            },
+            {
+                "IAB Category": "Air Travel        "
+            },
+            {
+                "IAB Category": "Logistics         "
+            },
+            {
+                "IAB Category": "City Life         "
+            }
+        ],
+        "df1": [
+            {
+                "Brand Names": " Mercedes-Benz    "
+            },
+            {
+                "Brand Names": " British Airways  "
+            },
+            {
+                "Brand Names": " Emirates         "
+            },
+            {
+                "Brand Names": " BMW              "
+            },
+            {
+                "Brand Names": " Audi             "
+            },
+            {
+                "Brand Names": " American Airlines"
+            },
+            {
+                "Brand Names": " Delta Air Lines  "
+            },
+            {
+                "Brand Names": " Ford             "
+            },
+            {
+                "Brand Names": " Chevrolet        "
+            },
+            {
+                "Brand Names": " Toyota           "
+            }
+        ],
+        "df2": [
+            {
+                "Brand Names": " Tata Motors      "
+            },
+            {
+                "Brand Names": " Air India        "
+            },
+            {
+                "Brand Names": " Mahindra & Mahindra  "
+            },
+            {
+                "Brand Names": " Jet Airways      "
+            },
+            {
+                "Brand Names": " Hero MotoCorp    "
+            },
+            {
+                "Brand Names": " IndiGo           "
+            },
+            {
+                "Brand Names": " Maruti Suzuki    "
+            },
+            {
+                "Brand Names": " SpiceJet         "
+            },
+            {
+                "Brand Names": " Ashok Leyland    "
+            },
+            {
+                "Brand Names": " Bajaj Auto       "
+            }
+        ],
+        "df3": [
+            {
+                "Website Name": "www.autoblog.com",
+                "IAB Category": "Automotive"
+            },
+            {
+                "Website Name": "www.airliners.net",
+                "IAB Category": "Aviation"
+            },
+            {
+                "Website Name": "www.tripadvisor.com",
+                "IAB Category": "Travel"
+            },
+            {
+                "Website Name": "www.uber.com",
+                "IAB Category": "Transportation"
+            },
+            {
+                "Website Name": "www.bbc.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.facebook.com",
+                "IAB Category": "Social Media"
+            },
+            {
+                "Website Name": "www.forbes.com",
+                "IAB Category": "Business & Finance"
+            },
+            {
+                "Website Name": "www.cnet.com",
+                "IAB Category": "Technology"
+            },
+            {
+                "Website Name": "www.espn.com",
+                "IAB Category": "Sports"
+            },
+            {
+                "Website Name": "www.gq.com",
+                "IAB Category": "Lifestyle"
+            }
+        ],
+        "df4": [
+            {
+                "Website Name": " www.carwale.com",
+                "IAB Category": "Automotive"
+            },
+            {
+                "Website Name": " www.airindia.in",
+                "IAB Category": "Aviation"
+            },
+            {
+                "Website Name": " www.makemytrip.com",
+                "IAB Category": "Travel"
+            },
+            {
+                "Website Name": " www.ola.com",
+                "IAB Category": "Transportation"
+            },
+            {
+                "Website Name": " www.timesofindia.indiatimes.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": " www.facebook.com",
+                "IAB Category": "Social Media"
+            },
+            {
+                "Website Name": " www.moneycontrol.com",
+                "IAB Category": "Business & Finance"
+            },
+            {
+                "Website Name": " www.gadgets.ndtv.com",
+                "IAB Category": "Technology"
+            },
+            {
+                "Website Name": " www.espncricinfo.com",
+                "IAB Category": "Sports"
+            },
+            {
+                "Website Name": " www.scoopwhoop.com",
+                "IAB Category": "Lifestyle"
+            }
+        ],
+        "df5": [
+            {
+                "Website Name": " www.cnn.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": " www.nytimes.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": " www.bbc.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": " www.theguardian.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": " www.reuters.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": " www.aljazeera.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": " www.foxnews.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": " www.hindustantimes.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": " www.indiatoday.in",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": " www.bloomberg.com",
+                "IAB Category": "News"
+            }
+        ],
+        "df6": [
+            {
+                "Website Name": " www.timesofindia.indiatimes.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": " www.ndtv.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": " www.indianexpress.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": " www.hindustantimes.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": " www.deccanchronicle.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": " www.thehindu.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": " www.firstpost.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": " www.financialexpress.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": " www.telegraphindia.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": " www.livemint.com",
+                "IAB Category": "News"
+            }
+        ],
+        "url": "https://timesofindia.indiatimes.com/business/india-business/india-jumps-6-places-on-world-banks-logistic-performance-index/articleshow/99705477.cms",
+        "image": "https://static.toiimg.com/thumb/msid-99705473,width-1070,height-580,imgsize-60488,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "title": "India jumps 6 places on World Bank's Logistic Performance Index",
+        "text": "NEW DELHI: India has climbed six places on the World Bank's Logistic Performance Index ( LPI ) 2023, now ranking 38th in the 139 countries index, as a result of significant investments in both soft and hard infrastructure as well as technology.India was ranked 44th on the index in 2018 and has now climbed to 38th in the 2023 listing. India's performance has drastically improved from 2014, when it was ranked 54th on the LPI.Prime Minister Narendra Modi-led government had announced PM Gati Shakti initiative, a National Master Plan for multimodal connectivity, in October 2021 to reduce logistics cost and boost the economy by 2024-25.In 2022, the prime minister had launched the National Logistics Policy (NLP) to ensure quick last-mile delivery, end transport-related challenges, save time and money of the manufacturing sector and ensure desired speed in the logistics sector.These policy interventions are fructifying, which can be seen in India's jump in LPI and its other parameters. According to the report, India's rank moved up five places in infrastructure score from 52nd in 2018 to 47th in 2023. It climbed to 22nd spot for international shipments in 2023 from 44th in 2018 and moved four places up to 48th in logistics competence and equality.In timelines, India witnessed a 17-place jump in rankings, whereas it moved up three places in rank in tracking and tracing to 38th. The report quotes modernisation and digitalisation as a reason for emerging economies, like India, to leapfrog advanced countries.",
+        "tags": [
+            "city ",
+            " highway ",
+            " plane ",
+            " image ",
+            " vehicle ",
+            " road ",
+            " airplane ",
+            " picture ",
+            " airport ",
+            " sky ",
+            " truck ",
+            " fly"
+        ],
+        "caption": "a picture of an airport with trucks and vehicles on the road and a plane flying in the sky",
+        "sff1": "Positive : ",
+        "sentiment_disp_value": 8.7,
+        "sentiment_filled_bg": "green",
+        "sentiment_empty_bg": "green.100",
+        "iab_safety_response_msg": "",
+        "iab_response_msg": "",
+        "pff1": "Here is a table with a single column of top 10 global brands whose tone of voice may resonate with the provided image tags:",
+        "pfl1": "These brands are selected based on their association with transportation, aviation, and automotive sectors, which align with the provided image tags. Please note that this is an estimation and may not accurately represent the brands that specifically resonate with the given tags.",
+        "pff2": "Here is a table with a single column of top 10 Indian brands whose tone of voice may resonate with the provided image tags:",
+        "pfl2": "These brands are selected based on their association with transportation, aviation, and automotive sectors in India, which align with the provided image tags. Please note that this is an estimation and may not accurately represent the brands that specifically resonate with the given tags.",
+        "pff3": "I can suggest some popular website genres that might be relevant for running ads related to transportation, aviation, and automotive sectors. Here is an example table that demonstrates the format you requested:",
+        "pfl3": "Please note that the provided websites are not recommendations and are for illustrative purposes only. The actual selection of websites for advertising campaigns should be based on factors such as target audience, ad performance, and ad inventory availability.",
+        "pff4": "Here is a table with a list of top 10 Indian website inventories that can potentially be suitable for running ads related to the provided brands and their associated IAB categories:",
+        "pfl4": "Please note that the selection of website inventories for advertising campaigns should consider factors such as target audience, ad performance, and availability of suitable ad inventory. The listed websites are examples and do not imply specific recommendations.",
+        "pff5": "Here is a table with a list of top 10 news website inventories that can be suitable for running brand ads, along with their associated IAB categories:",
+        "pfl5": "Please note that the selection of news website inventories for advertising campaigns should consider factors such as target audience, ad performance metrics, and the suitability of the website's content and reputation for the brand. The websites listed above are popular news websites, but it's important to conduct further research and analysis to make a strategic decision regarding advertising placements.",
+        "pff6": "Here is a table with a list of top 10 Indian news website inventories that can potentially be suitable for running brand ads, along with their associated IAB categories:",
+        "pfl6": "Please note that the selection of news website inventories for advertising campaigns should consider factors such as target audience, ad performance metrics, and the suitability of the website's content and reputation for the brand. The listed websites are popular news websites in India, but it's important to conduct further research and analysis to make a strategic decision regarding advertising placements.",
+        "local_image": "data/images/image_1.jpg"
+    },
+    {
+        "keyword_list": [
+            {
+                "Keywords": "1. Goa Logistics and Warehouse Policy "
+            },
+            {
+                "Keywords": "2. boost logistics-led investments "
+            },
+            {
+                "Keywords": "3. environment-friendly commercial carriers "
+            },
+            {
+                "Keywords": "4. decarbonisation in transportation "
+            },
+            {
+                "Keywords": "5. interest and capital subsidies "
+            },
+            {
+                "Keywords": "6. integrated logistics parks "
+            },
+            {
+                "Keywords": "7. cold storage facilities "
+            },
+            {
+                "Keywords": "8. testing centres "
+            },
+            {
+                "Keywords": "9. institutional and regulatory frameworks "
+            },
+            {
+                "Keywords": "10. skill development "
+            }
+        ],
+        "df": [
+            {
+                "IAB Category": " Automotive      "
+            },
+            {
+                "IAB Category": " Travel & Tourism"
+            },
+            {
+                "IAB Category": " Technology      "
+            },
+            {
+                "IAB Category": " Transportation  "
+            }
+        ],
+        "df1": [
+            {
+                "Brand Names": " Caterpillar        "
+            },
+            {
+                "Brand Names": " Ford               "
+            },
+            {
+                "Brand Names": " UPS                "
+            },
+            {
+                "Brand Names": " FedEx              "
+            },
+            {
+                "Brand Names": " Maersk             "
+            },
+            {
+                "Brand Names": " Union Pacific      "
+            },
+            {
+                "Brand Names": " Canadian National  "
+            },
+            {
+                "Brand Names": " British Airways    "
+            },
+            {
+                "Brand Names": " Tesla              "
+            },
+            {
+                "Brand Names": " Amazon             "
+            }
+        ],
+        "df2": [
+            {
+                "Brand Names": " Indian Railways    "
+            },
+            {
+                "Brand Names": " Tata Motors        "
+            },
+            {
+                "Brand Names": " Mahindra & Mahindra"
+            },
+            {
+                "Brand Names": " Bharat Petroleum   "
+            },
+            {
+                "Brand Names": " Hindustan Petroleum"
+            },
+            {
+                "Brand Names": " State Bank of India"
+            },
+            {
+                "Brand Names": " Indian Oil         "
+            },
+            {
+                "Brand Names": " Ashok Leyland      "
+            },
+            {
+                "Brand Names": " Air India          "
+            },
+            {
+                "Brand Names": " ONGC               "
+            }
+        ],
+        "df3": [
+            {
+                "Website Name": "Autotrader",
+                "IAB Category": "Automotive"
+            },
+            {
+                "Website Name": "Car and Driver",
+                "IAB Category": "Automotive"
+            },
+            {
+                "Website Name": "Top Gear",
+                "IAB Category": "Automotive"
+            },
+            {
+                "Website Name": "Motor Trend",
+                "IAB Category": "Automotive"
+            },
+            {
+                "Website Name": "TripAdvisor",
+                "IAB Category": "Travel & Tourism"
+            },
+            {
+                "Website Name": "Expedia",
+                "IAB Category": "Travel & Tourism"
+            },
+            {
+                "Website Name": "Booking.com",
+                "IAB Category": "Travel & Tourism"
+            },
+            {
+                "Website Name": "CNET",
+                "IAB Category": "Technology"
+            },
+            {
+                "Website Name": "The Verge",
+                "IAB Category": "Technology"
+            },
+            {
+                "Website Name": "Gizmodo",
+                "IAB Category": "Technology"
+            },
+            {
+                "Website Name": "Transport Topics",
+                "IAB Category": "Transportation"
+            },
+            {
+                "Website Name": "Maritime Executive",
+                "IAB Category": "Transportation"
+            },
+            {
+                "Website Name": "Railway Gazette",
+                "IAB Category": "Transportation"
+            },
+            {
+                "Website Name": "Truck News",
+                "IAB Category": "Transportation"
+            },
+            {
+                "Website Name": "Ship Technology",
+                "IAB Category": "Transportation"
+            }
+        ],
+        "df4": [
+            {
+                "Website Name": "CarDekho",
+                "IAB Category": "Automotive"
+            },
+            {
+                "Website Name": "Overdrive",
+                "IAB Category": "Automotive"
+            },
+            {
+                "Website Name": "ZigWheels",
+                "IAB Category": "Automotive"
+            },
+            {
+                "Website Name": "Autocar India",
+                "IAB Category": "Automotive"
+            },
+            {
+                "Website Name": "MakeMyTrip",
+                "IAB Category": "Travel & Tourism"
+            },
+            {
+                "Website Name": "Yatra",
+                "IAB Category": "Travel & Tourism"
+            },
+            {
+                "Website Name": "Goibibo",
+                "IAB Category": "Travel & Tourism"
+            },
+            {
+                "Website Name": "Cleartrip",
+                "IAB Category": "Travel & Tourism"
+            },
+            {
+                "Website Name": "Gadgets 360",
+                "IAB Category": "Technology"
+            },
+            {
+                "Website Name": "Trak.in",
+                "IAB Category": "Technology"
+            },
+            {
+                "Website Name": "PhoneArena",
+                "IAB Category": "Technology"
+            },
+            {
+                "Website Name": "Beebom",
+                "IAB Category": "Technology"
+            },
+            {
+                "Website Name": "IndiaMART",
+                "IAB Category": "Transportation"
+            },
+            {
+                "Website Name": "Logistics Insider",
+                "IAB Category": "Transportation"
+            },
+            {
+                "Website Name": "Transportation Management",
+                "IAB Category": "Transportation"
+            },
+            {
+                "Website Name": "CargoNews Asia",
+                "IAB Category": "Transportation"
+            }
+        ],
+        "df5": [
+            {
+                "Website Name": "BBC News",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "CNN",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "The New York Times",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "The Guardian",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "Reuters",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "Times of India",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "Al Jazeera",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "ABC News",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "NBC News",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "The Washington Post",
+                "IAB Category": "News"
+            }
+        ],
+        "df6": [
+            {
+                "Website Name": "NDTV",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "Times of India",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "India Today",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "The Hindu",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "Hindustan Times",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "The Indian Express",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "Firstpost",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "ABP News",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "Zee News",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "Reuters India",
+                "IAB Category": "News"
+            }
+        ],
+        "url": "https://timesofindia.indiatimes.com/city/goa/logistics-and-warehouse-policy-primes-goa-to-draw-investments/articleshow/100483826.cms",
+        "image": "https://static.toiimg.com/thumb/msid-100493927,width-1070,height-580,imgsize-985342,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "title": "Warehouse Policy: Logistics and warehouse policy primes Goa to draw investments",
+        "text": "PANAJI: The state cabinet on Wednesday granted approval to the Goa Logistics and Warehouse Policy , 2023, which aims to boost logistics-led investments.The policy seeks to promote environment-friendlyThrough the policy, the state government will provide up to 15% interest and capital subsidies on the annual interest payable by companies on loans taken for the construction of projects. Incentives will also be offered on fixed capital invested through loans on buildings, plants, and machinery for integrated logistics parks, large warehouses, cold storage facilities, and testing centres in backward talukas.The core objectives of the policy include the development of the logistics sector as a common goal among different government departments and the creation of an ecosystem for logistics players by creating opportunities in warehousing and container logistics.Institutional and regulatory frameworks will provide time-bound clearances to logistics-led investments in the state. The policy is also designed to strengthen the existing logistics blocks of the state by granting the industry status to the logistics and warehousing sectors.The other objectives of the policy include promoting accessibility to agricultural produce by increasing the mobility from fields to markets, boosting the growth of waterborne-cargo movement by modernising the existing jetties, and developing key inland river routes.The policy aspires to enhance skill development in the logistics and warehousing sector, increase employment, generate revenue for the state, and establish a common interface for data sharing. Automation will enable performance monitoring and network planning.",
+        "tags": [
+            "train ",
+            " track ",
+            " ship ",
+            " truck ",
+            " large"
+        ],
+        "caption": "a large train is coming down the tracks",
+        "sff1": "Positive : ",
+        "sentiment_disp_value": 8.5,
+        "sentiment_filled_bg": "green",
+        "sentiment_empty_bg": "green.100",
+        "iab_safety_response_msg": "",
+        "iab_response_msg": "",
+        "pff1": "Here is a table listing 10 global brands whose tone of voice might resonate with the given tags:",
+        "pfl1": "",
+        "pff2": "Here is a table listing 10 Indian brands whose tone of voice might resonate with the given tags:",
+        "pfl2": "",
+        "pff3": "Here is a table with a list of 10 global website inventories along with their corresponding IAB categories:",
+        "pfl3": "Please note that this is just a suggested list, and the actual availability of advertising inventory for the given brands may vary.",
+        "pff4": "Here is a table with a list of 10 Indian website inventories along with their corresponding IAB categories:",
+        "pfl4": "Please note that this is just a suggested list, and the actual availability of advertising inventory for the given brands may vary.",
+        "pff5": "Here is a table with a list of 10 news website inventories along with their corresponding IAB categories:",
+        "pfl5": "Please note that this is just a suggested list, and the actual availability of advertising inventory for the given brands may vary.",
+        "pff6": "Here is a table with a list of 10 Indian news website inventories along with their corresponding IAB categories:",
+        "pfl6": "Please note that this is just a suggested list, and the actual availability of advertising inventory for the given brands may vary.",
+        "local_image": "data/images/image_2.jpg"
+    },
+    {
+        "keyword_list": [
+            {
+                "Keywords": "1. Asian Development Bank (ADB)"
+            },
+            {
+                "Keywords": "2. economic growth forecast"
+            },
+            {
+                "Keywords": "3. domestic demand"
+            },
+            {
+                "Keywords": "4. recovery"
+            },
+            {
+                "Keywords": "5. inflation"
+            },
+            {
+                "Keywords": "6. developing economies in Asia"
+            },
+            {
+                "Keywords": "7. fuel and food prices"
+            },
+            {
+                "Keywords": "8. Indian economy"
+            },
+            {
+                "Keywords": "9. industrial activity"
+            },
+            {
+                "Keywords": "10. exports"
+            }
+        ],
+        "df": [
+            {
+                "IAB Category": "Arts & Entertainment"
+            },
+            {
+                "IAB Category": "Business          "
+            },
+            {
+                "IAB Category": "Education         "
+            },
+            {
+                "IAB Category": "Hobbies & Interests"
+            },
+            {
+                "IAB Category": "Home & Garden     "
+            },
+            {
+                "IAB Category": "Law & Government  "
+            },
+            {
+                "IAB Category": "News              "
+            },
+            {
+                "IAB Category": "Personal Finance  "
+            },
+            {
+                "IAB Category": "Real Estate       "
+            },
+            {
+                "IAB Category": "Science           "
+            }
+        ],
+        "df1": [
+            {
+                "Brand Names": " Apple            "
+            },
+            {
+                "Brand Names": " Google           "
+            },
+            {
+                "Brand Names": " Microsoft        "
+            },
+            {
+                "Brand Names": " Amazon           "
+            },
+            {
+                "Brand Names": " Coca-Cola        "
+            },
+            {
+                "Brand Names": " Nike             "
+            },
+            {
+                "Brand Names": " Samsung          "
+            },
+            {
+                "Brand Names": " IBM              "
+            },
+            {
+                "Brand Names": " Mercedes-Benz    "
+            },
+            {
+                "Brand Names": " McDonald's       "
+            }
+        ],
+        "df2": [
+            {
+                "Brand Names": " Tata Group       "
+            },
+            {
+                "Brand Names": " Reliance Industries "
+            },
+            {
+                "Brand Names": " HDFC Bank        "
+            },
+            {
+                "Brand Names": " State Bank of India "
+            },
+            {
+                "Brand Names": " Infosys          "
+            },
+            {
+                "Brand Names": " Mahindra & Mahindra "
+            },
+            {
+                "Brand Names": " ICICI Bank       "
+            },
+            {
+                "Brand Names": " Larsen & Toubro  "
+            },
+            {
+                "Brand Names": " Tech Mahindra    "
+            },
+            {
+                "Brand Names": " Aditya Birla Group "
+            }
+        ],
+        "df3": [
+            {
+                "Website Name": "autotrader.com",
+                "IAB Category": "Automotive"
+            },
+            {
+                "Website Name": "forbes.com",
+                "IAB Category": "Business"
+            },
+            {
+                "Website Name": "youtube.com",
+                "IAB Category": "Entertainment"
+            },
+            {
+                "Website Name": "vogue.com",
+                "IAB Category": "Fashion"
+            },
+            {
+                "Website Name": "bloomberg.com",
+                "IAB Category": "Finance"
+            },
+            {
+                "Website Name": "webmd.com",
+                "IAB Category": "Health"
+            },
+            {
+                "Website Name": "bbc.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "espn.com",
+                "IAB Category": "Sports"
+            },
+            {
+                "Website Name": "wired.com",
+                "IAB Category": "Technology"
+            },
+            {
+                "Website Name": "lonelyplanet.com",
+                "IAB Category": "Travel"
+            }
+        ],
+        "df4": [
+            {
+                "Website Name": "zigwheels.com",
+                "IAB Category": "Automotive"
+            },
+            {
+                "Website Name": "economictimes.indiatimes.com",
+                "IAB Category": "Business"
+            },
+            {
+                "Website Name": "bookmyshow.com",
+                "IAB Category": "Entertainment"
+            },
+            {
+                "Website Name": "myntra.com",
+                "IAB Category": "Fashion"
+            },
+            {
+                "Website Name": "moneycontrol.com",
+                "IAB Category": "Finance"
+            },
+            {
+                "Website Name": "practo.com",
+                "IAB Category": "Health"
+            },
+            {
+                "Website Name": "timesofindia.indiatimes.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "espncricinfo.com",
+                "IAB Category": "Sports"
+            },
+            {
+                "Website Name": "ndtv.com",
+                "IAB Category": "Technology"
+            },
+            {
+                "Website Name": "yatra.com",
+                "IAB Category": "Travel"
+            }
+        ],
+        "df5": [
+            {
+                "Website Name": "bbc.co.uk",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "nytimes.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "theguardian.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "cnn.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "foxnews.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "huffpost.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "indiatimes.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "reuters.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "aljazeera.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "usatoday.com",
+                "IAB Category": "News"
+            }
+        ],
+        "df6": [
+            {
+                "Website Name": "timesofindia.indiatimes.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "indianexpress.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "hindustantimes.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "ndtv.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "zeenews.india.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "deccanchronicle.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "firstpost.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "newindianexpress.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "oneindia.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "scroll.in",
+                "IAB Category": "News"
+            }
+        ],
+        "url": "https://www.thehindu.com/business/adb-retains-indias-growth-forecast-at-64-for-current-fiscal/article67096732.ece",
+        "image": "https://th-i.thgim.com/public/incoming/vhbx1s/article66697738.ece/alternates/LANDSCAPE_1200/IMG_ADB_2_1_NR94HLPG.jpg",
+        "title": "ADB retains India's growth forecast at 6.4% for current fiscal",
+        "text": "July 19, 2023 08:09 am | Updated 08:19 am IST - New Delhi\n\nThe Asian Development Bank (ADB) on Wednesday, July 19, 2023, retained India's economic growth forecast at 6.4 per cent for the current financial year and 6.7 per cent for the next, saying robust domestic demand will continue to support the region's recovery. In an update to its Asian Development Outlook, the ADB said inflation is expected to continue to fall, approaching pre-pandemic levels as fuel and food prices decline. It forecast 3.6 per cent inflation this year for developing economies in Asia, and 3.4 per cent in 2024.",
+        "tags": [
+            "building ",
+            " street sign ",
+            " sign ",
+            " gate ",
+            " man ",
+            " walk ",
+            " stand ",
+            " golden"
+        ],
+        "caption": "a man standing in front of a building with a golden sign",
+        "sff1": "Positive : ",
+        "sentiment_disp_value": 8.5,
+        "sentiment_filled_bg": "green",
+        "sentiment_empty_bg": "green.100",
+        "iab_safety_response_msg": "",
+        "iab_response_msg": "",
+        "pff1": "Here is a table with a list of top 10 global brands whose tone of voice may resonate with the given tags:",
+        "pfl1": "These brands have established a strong brand presence and their tone of voice may align with the imagery of a man standing in front of a building with a golden sign. However, it is important to note that brand tone of voice can vary and evolve over time, so it is recommended to research each brand's current communications to ensure alignment with the specific context.",
+        "pff2": "Here is a table with a list of top 10 Indian brands whose tone of voice may resonate with the given tags:",
+        "pfl2": "These are some of the notable Indian brands that have a strong presence and may align their tone of voice with the imagery of a man standing in front of a building with a golden sign. However, it is important to note that brand tone of voice can vary over time, so it is recommended to research each brand's current communications to ensure alignment with the specific context.",
+        "pff3": "Here is a table with a list of top 10 global website inventory along with their corresponding IAB categories, where you can consider running the ads for the given brands:",
+        "pfl3": "Please note that the selection of website inventory for running ads should be based on various factors such as target audience, brand alignment, ad performance, and your advertising goals. It is recommended to thoroughly research and consider the specific needs and objectives of your campaign before finalizing the website inventory.",
+        "pff4": "Please find below a table with a list of top 10 Indian website inventory along with their corresponding IAB categories, where you can consider running the ads for the given Indian brands:",
+        "pfl4": "It is important to note that the selection of website inventory for running ads should be based on your target audience, brand alignment, ad performance, and advertising objectives. Make sure to research and consider the specific needs of your campaign before finalizing the website inventory.",
+        "pff5": "Here is a table with a list of top 10 news website inventory along with their corresponding IAB categories, where you can consider running brand ads in the news category:",
+        "pfl5": "Please note that the selection of website inventory should be based on your target audience, brand alignment, ad performance, and campaign objectives. It is recommended to thoroughly research and consider the specific needs and goals of your campaign before finalizing the website inventory.",
+        "pff6": "Here is a table with a list of top 10 Indian news website inventory along with their corresponding IAB categories, where you can consider running brand ads in the news category:",
+        "pfl6": "Please note that the selection of website inventory should be based on your target audience, brand alignment, ad performance, and campaign objectives. It is recommended to thoroughly research and consider the specific needs and goals of your campaign before finalizing the website inventory.",
+        "local_image": "data/images/image_3.jpg"
+    },
+    {
+        "keyword_list": [
+            {
+                "Keywords": "1. Sustainable fashion"
+            },
+            {
+                "Keywords": "2. Need"
+            },
+            {
+                "Keywords": "3. Choice"
+            },
+            {
+                "Keywords": "4. India"
+            },
+            {
+                "Keywords": "5. Second largest producer of textiles"
+            },
+            {
+                "Keywords": "6. Eco-friendly clothes"
+            },
+            {
+                "Keywords": "7. Youth of India"
+            },
+            {
+                "Keywords": "8. Sustainable approach"
+            },
+            {
+                "Keywords": "9. Environment"
+            },
+            {
+                "Keywords": "10. Challenges and solutions"
+            }
+        ],
+        "df": [
+            {
+                "IAB Category": "Fashion                "
+            },
+            {
+                "IAB Category": "Beauty & Personal Care "
+            },
+            {
+                "IAB Category": "Shopping               "
+            },
+            {
+                "IAB Category": "Women's Interest       "
+            },
+            {
+                "IAB Category": "Lifestyle              "
+            },
+            {
+                "IAB Category": "Celebrity & Entertainment"
+            },
+            {
+                "IAB Category": "Street Style           "
+            },
+            {
+                "IAB Category": "Retail                 "
+            },
+            {
+                "IAB Category": "Fashion Accessories    "
+            },
+            {
+                "IAB Category": "Cosmetics              "
+            },
+            {
+                "IAB Category": "Clothing               "
+            }
+        ],
+        "df1": [
+            {
+                "Brand Names": " Chanel               "
+            },
+            {
+                "Brand Names": " Gucci                "
+            },
+            {
+                "Brand Names": " Louis Vuitton        "
+            },
+            {
+                "Brand Names": " Prada                "
+            },
+            {
+                "Brand Names": " Burberry             "
+            },
+            {
+                "Brand Names": " Dior                 "
+            },
+            {
+                "Brand Names": " Alexander McQueen    "
+            },
+            {
+                "Brand Names": " Givenchy             "
+            },
+            {
+                "Brand Names": " Valentino            "
+            },
+            {
+                "Brand Names": " Dolce & Gabbana      "
+            }
+        ],
+        "df2": [
+            {
+                "Brand Names": " Titan            "
+            },
+            {
+                "Brand Names": " Lakm\u00e9            "
+            },
+            {
+                "Brand Names": " Fabindia         "
+            },
+            {
+                "Brand Names": " Biba             "
+            },
+            {
+                "Brand Names": " Amway            "
+            },
+            {
+                "Brand Names": " Allen Solly      "
+            },
+            {
+                "Brand Names": " Reliance Trends  "
+            },
+            {
+                "Brand Names": " FabAlley         "
+            },
+            {
+                "Brand Names": " Nykaa            "
+            },
+            {
+                "Brand Names": " W for Woman      "
+            }
+        ],
+        "df3": [
+            {
+                "Website Name": "www.vogue.com",
+                "IAB Category": "Fashion"
+            },
+            {
+                "Website Name": "www.harpersbazaar.com",
+                "IAB Category": "Fashion"
+            },
+            {
+                "Website Name": "www.sephora.com",
+                "IAB Category": "Beauty & Personal Care"
+            },
+            {
+                "Website Name": "www.allure.com",
+                "IAB Category": "Beauty & Personal Care"
+            },
+            {
+                "Website Name": "www.amazon.com",
+                "IAB Category": "Shopping"
+            },
+            {
+                "Website Name": "www.ebay.com",
+                "IAB Category": "Shopping"
+            },
+            {
+                "Website Name": "www.cosmopolitan.com",
+                "IAB Category": "Women's Interest"
+            },
+            {
+                "Website Name": "www.elle.com",
+                "IAB Category": "Women's Interest"
+            },
+            {
+                "Website Name": "www.buzzfeed.com",
+                "IAB Category": "Lifestyle"
+            },
+            {
+                "Website Name": "www.huffpost.com",
+                "IAB Category": "Lifestyle"
+            }
+        ],
+        "df4": [
+            {
+                "Website Name": "www.myntra.com",
+                "IAB Category": "Fashion"
+            },
+            {
+                "Website Name": "www.jabong.com",
+                "IAB Category": "Fashion"
+            },
+            {
+                "Website Name": "www.nykaa.com",
+                "IAB Category": "Beauty & Personal Care"
+            },
+            {
+                "Website Name": "www.purplle.com",
+                "IAB Category": "Beauty & Personal Care"
+            },
+            {
+                "Website Name": "www.flipkart.com",
+                "IAB Category": "Shopping"
+            },
+            {
+                "Website Name": "www.amazon.in",
+                "IAB Category": "Shopping"
+            },
+            {
+                "Website Name": "www.femina.in",
+                "IAB Category": "Women's Interest"
+            },
+            {
+                "Website Name": "www.popxo.com",
+                "IAB Category": "Women's Interest"
+            },
+            {
+                "Website Name": "www.scoopwhoop.com",
+                "IAB Category": "Lifestyle"
+            },
+            {
+                "Website Name": "www.storypick.com",
+                "IAB Category": "Lifestyle"
+            }
+        ],
+        "df5": [
+            {
+                "Website Name": "www.cnn.com",
+                "IAB Category": "General News"
+            },
+            {
+                "Website Name": "www.bbc.com",
+                "IAB Category": "General News"
+            },
+            {
+                "Website Name": "www.nytimes.com",
+                "IAB Category": "General News"
+            },
+            {
+                "Website Name": "www.theguardian.com",
+                "IAB Category": "General News"
+            },
+            {
+                "Website Name": "www.techcrunch.com",
+                "IAB Category": "Technology News"
+            },
+            {
+                "Website Name": "www.engadget.com",
+                "IAB Category": "Technology News"
+            },
+            {
+                "Website Name": "www.forbes.com",
+                "IAB Category": "Business News"
+            },
+            {
+                "Website Name": "www.cnbc.com",
+                "IAB Category": "Business News"
+            },
+            {
+                "Website Name": "www.eonline.com",
+                "IAB Category": "Entertainment News"
+            },
+            {
+                "Website Name": "www.tmz.com",
+                "IAB Category": "Entertainment News"
+            }
+        ],
+        "df6": [
+            {
+                "Website Name": "www.timesofindia.indiatimes.com",
+                "IAB Category": "General News"
+            },
+            {
+                "Website Name": "www.indiatoday.in",
+                "IAB Category": "General News"
+            },
+            {
+                "Website Name": "www.ndtv.com",
+                "IAB Category": "General News"
+            },
+            {
+                "Website Name": "www.thehindu.com",
+                "IAB Category": "General News"
+            },
+            {
+                "Website Name": "www.gadgets.ndtv.com",
+                "IAB Category": "Technology News"
+            },
+            {
+                "Website Name": "www.news18.com/tech",
+                "IAB Category": "Technology News"
+            },
+            {
+                "Website Name": "www.moneycontrol.com",
+                "IAB Category": "Business News"
+            },
+            {
+                "Website Name": "www.economictimes.indiatimes.com",
+                "IAB Category": "Business News"
+            },
+            {
+                "Website Name": "www.bollywoodhungama.com",
+                "IAB Category": "Entertainment News"
+            },
+            {
+                "Website Name": "www.filmfare.com",
+                "IAB Category": "Entertainment News"
+            }
+        ],
+        "url": "https://www.hindustantimes.com/lifestyle/fashion/sustainable-fashion-in-india-challenges-and-solutions-101689738532836.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2023/07/19/1600x900/_2a1a4a9e-2887-11ea-ad03-eca33bb5cdbf_1689739051731.jpg",
+        "title": "Sustainable fashion in India: Challenges and solutions",
+        "text": "Nowadays sustainable fashion is a need, not a choice and India being the second largest producer of textiles, globally, is responsible for producing eco-friendly clothes. The youth of India should be responsible for focusing on utilising those sustainable and eco-friendly resources as by adopting a sustainable approach, we can save our environment.In an interview with HT Lifestyle, Bhaskar Mitra, Professor and Dean - School of Design (Fashion Design and Technology) at Lovely Professional University in India's Punjab, shared, \u201cIt is observed that youngsters are actually understanding the need for sustainable fashion and becoming more conscious about their buying behavior. However, there is still a lack of awareness among a large part of the population. High-end technologies and techniques are get used to produce sustainable clothes which makes them costlier than the other clothes. Hence, becomes a huge barrier.\u201dHe added, \u201cA large part of youth in India focuses on buying budget-friendly clothes, making it difficult for them to adopt sustainable fashion. Using the right and organic material, adopting the practice of reusing and recycling clothes, buying second-hand clothes and making less frequent purchases are some of the tips that everyone should follow. Sustainable fashion is not only about buying new stuff from eco-considerate and socially responsible producers but also about encouraging and cherishing cloth swaps, being proud of using secondhand things and repairing and reusing the damaged ones. After all, it\u2019s righteous to respect the planet and value what we already have.\u201dBringing her expertise to the same, Ankita Dwivedi, Founder of LQ Milano, said, \u201cThe sustainability express has finally stopped at the fashion station. Consequently, the apparel industry is going through a transition as brands have begun using environment friendly materials for manufacture. This trend has also made waves in the kids wear market with a view to instill consideration in children towards the environment. However, barriers like cost, logistics, consumer perception etc. must be considered to establish a sustainable kids wear line-up. Sustainable materials like recycled polyester fibers, processed cotton and natural dyes are difficult to source resulting in the increase of production cost, subsequently elevating prices.\u201d",
+        "tags": [
+            "lip ",
+            " coat ",
+            " woman ",
+            " actor ",
+            " shopping bag ",
+            " street ",
+            " carry ",
+            " walk ",
+            " wear ",
+            " red"
+        ],
+        "caption": "a woman wearing a coat and red lips carrying shopping bags",
+        "sff1": "Positive : ",
+        "sentiment_disp_value": 7.5,
+        "sentiment_filled_bg": "green",
+        "sentiment_empty_bg": "green.100",
+        "iab_safety_response_msg": "",
+        "iab_response_msg": "",
+        "pff1": "Here is a list of top 10 global brands that may resonate with the given image tags:",
+        "pfl1": "These brands are known for their fashion, luxury, and style offerings, which align with the concept of a woman wearing a coat, red lips, and carrying shopping bags.",
+        "pff2": "Here is a list of top 10 Indian brands that may resonate with the given image tags:",
+        "pfl2": "These brands are known for their fashion, beauty, and lifestyle offerings, which align with the concept of a woman wearing a coat, red lips, and carrying shopping bags.",
+        "pff3": "Here is a suggested list of top 10 global website inventories to run the ads for the previously mentioned global brands. The websites are paired with their corresponding IAB category:",
+        "pfl3": "Please note that website inventories may vary and this is only a suggestion based on the given requirements. Ensure to validate the suitability and relevance of these websites for specific ad campaigns and targets.",
+        "pff4": "Here is a suggested list of top 10 Indian website inventories to run the ads for the previously mentioned Indian brands. The websites are paired with their corresponding IAB category:",
+        "pfl4": "Please note that website inventories may vary and this is only a suggestion based on the given requirements. Ensure to validate the suitability and relevance of these websites for specific ad campaigns and targets.",
+        "pff5": "Here is a suggested list of top 10 news website inventories to run brand ads along with their corresponding IAB categories:",
+        "pfl5": "Please note that website inventories may vary and this is only a suggestion based on popular news websites. Ensure to validate the suitability and relevance of these websites for specific ad campaigns and targets.",
+        "pff6": "Here is a suggested list of top 10 Indian news website inventories to run brand ads along with their corresponding IAB categories:",
+        "pfl6": "Please note that website inventories may vary and this is only a suggestion based on popular Indian news websites. Ensure to validate the suitability and relevance of these websites for specific ad campaigns and targets.",
+        "local_image": "data/images/image_4.jpg"
+    },
+    {
+        "keyword_list": [
+            {
+                "Keywords": "1. Taj Mahal"
+            },
+            {
+                "Keywords": "2. flood"
+            },
+            {
+                "Keywords": "3. water"
+            },
+            {
+                "Keywords": "4. main mausoleum"
+            },
+            {
+                "Keywords": "5. Yamuna river"
+            },
+            {
+                "Keywords": "6. Archaeological Survey of India (ASI)"
+            },
+            {
+                "Keywords": "7. design"
+            },
+            {
+                "Keywords": "8. high floods"
+            },
+            {
+                "Keywords": "9. conservation assistant"
+            },
+            {
+                "Keywords": "10. damage"
+            }
+        ],
+        "df": [
+            {
+                "IAB Category": "Travel "
+            },
+            {
+                "IAB Category": "Real Estate"
+            },
+            {
+                "IAB Category": "Outdoor Activities"
+            },
+            {
+                "IAB Category": "Nature & Wildlife"
+            },
+            {
+                "IAB Category": "Architecture"
+            },
+            {
+                "IAB Category": "Environment"
+            },
+            {
+                "IAB Category": "Residential"
+            },
+            {
+                "IAB Category": "Birdwatching"
+            },
+            {
+                "IAB Category": "Urban Exploration"
+            }
+        ],
+        "df1": [
+            {
+                "Brand Names": " 1. National Geographic           "
+            },
+            {
+                "Brand Names": " 2. Airbnb                        "
+            },
+            {
+                "Brand Names": " 3. Nike                           "
+            },
+            {
+                "Brand Names": " 4. Apple                          "
+            },
+            {
+                "Brand Names": " 5. Google                         "
+            },
+            {
+                "Brand Names": " 6. Tesla                          "
+            },
+            {
+                "Brand Names": " 7. Instagram                      "
+            },
+            {
+                "Brand Names": " 8. Rolex                          "
+            },
+            {
+                "Brand Names": " 9. Patagonia                      "
+            },
+            {
+                "Brand Names": " 10. The North Face                "
+            }
+        ],
+        "df2": [
+            {
+                "Brand Names": " Tata Group                      "
+            },
+            {
+                "Brand Names": " Mahindra & Mahindra             "
+            },
+            {
+                "Brand Names": " Infosys                         "
+            },
+            {
+                "Brand Names": " Reliance Industries             "
+            },
+            {
+                "Brand Names": " State Bank of India             "
+            },
+            {
+                "Brand Names": " ITC Limited                     "
+            },
+            {
+                "Brand Names": " HDFC Bank                       "
+            },
+            {
+                "Brand Names": " Tata Consultancy Services (TCS) "
+            },
+            {
+                "Brand Names": " Bharti Airtel                   "
+            },
+            {
+                "Brand Names": " Maruti Suzuki                   "
+            }
+        ],
+        "df3": [
+            {
+                "Website Name": "booking.com",
+                "IAB Category": "Travel"
+            },
+            {
+                "Website Name": "Zillow",
+                "IAB Category": "Real Estate"
+            },
+            {
+                "Website Name": "National Parks Service",
+                "IAB Category": "Outdoor Activities"
+            },
+            {
+                "Website Name": "National Geographic",
+                "IAB Category": "Nature & Wildlife"
+            },
+            {
+                "Website Name": "ArchDaily",
+                "IAB Category": "Architecture"
+            },
+            {
+                "Website Name": "Greenpeace",
+                "IAB Category": "Environment"
+            },
+            {
+                "Website Name": "Realtor.com",
+                "IAB Category": "Residential"
+            },
+            {
+                "Website Name": "BirdWatching Daily",
+                "IAB Category": "Birdwatching"
+            },
+            {
+                "Website Name": "Atlas Obscura",
+                "IAB Category": "Urban Exploration"
+            },
+            {
+                "Website Name": "500px",
+                "IAB Category": "Photography"
+            }
+        ],
+        "df4": [
+            {
+                "Website Name": "Times of India",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "99acres",
+                "IAB Category": "Real Estate"
+            },
+            {
+                "Website Name": "MakeMyTrip",
+                "IAB Category": "Travel"
+            },
+            {
+                "Website Name": "CarDekho",
+                "IAB Category": "Automotive"
+            },
+            {
+                "Website Name": "Gadgets 360",
+                "IAB Category": "Technology"
+            },
+            {
+                "Website Name": "Moneycontrol",
+                "IAB Category": "Finance"
+            },
+            {
+                "Website Name": "The Economic Times",
+                "IAB Category": "Business"
+            },
+            {
+                "Website Name": "Indian Express",
+                "IAB Category": "Lifestyle"
+            },
+            {
+                "Website Name": "Food.ndtv.com",
+                "IAB Category": "Food & Drink"
+            },
+            {
+                "Website Name": "Sportskeeda",
+                "IAB Category": "Sports"
+            }
+        ],
+        "df5": [
+            {
+                "Website Name": "bbc.co.uk",
+                "IAB Category": "General News"
+            },
+            {
+                "Website Name": "wsj.com",
+                "IAB Category": "Business News"
+            },
+            {
+                "Website Name": "wired.com",
+                "IAB Category": "Technology News"
+            },
+            {
+                "Website Name": "tmz.com",
+                "IAB Category": "Entertainment News"
+            },
+            {
+                "Website Name": "espn.com",
+                "IAB Category": "Sports News"
+            },
+            {
+                "Website Name": "cnn.com",
+                "IAB Category": "Political News"
+            },
+            {
+                "Website Name": "financialtimes.com",
+                "IAB Category": "Financial News"
+            },
+            {
+                "Website Name": "webmd.com",
+                "IAB Category": "Health News"
+            },
+            {
+                "Website Name": "nationalgeographic.com",
+                "IAB Category": "Science News"
+            },
+            {
+                "Website Name": "nytimes.com",
+                "IAB Category": "Local News"
+            }
+        ],
+        "df6": [
+            {
+                "Website Name": "timesofindia.indiatimes.com",
+                "IAB Category": "General News"
+            },
+            {
+                "Website Name": "economictimes.indiatimes.com",
+                "IAB Category": "Business News"
+            },
+            {
+                "Website Name": "gadgets.ndtv.com",
+                "IAB Category": "Technology News"
+            },
+            {
+                "Website Name": "bollywoodhungama.com",
+                "IAB Category": "Entertainment News"
+            },
+            {
+                "Website Name": "sports.ndtv.com",
+                "IAB Category": "Sports News"
+            },
+            {
+                "Website Name": "ndtv.com",
+                "IAB Category": "Political News"
+            },
+            {
+                "Website Name": "moneycontrol.com",
+                "IAB Category": "Financial News"
+            },
+            {
+                "Website Name": "indianexpress.com/section/lifestyle/health",
+                "IAB Category": "Health News"
+            },
+            {
+                "Website Name": "nationalheraldindia.com/science",
+                "IAB Category": "Science News"
+            },
+            {
+                "Website Name": "thehindu.com",
+                "IAB Category": "Local News"
+            }
+        ],
+        "url": "https://www.moneycontrol.com/news/trends/yamuna-flood-waters-touch-taj-mahal-walls-for-first-time-45-years-10980111.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2017/06/taj-mahal-agra-770x433.jpg",
+        "title": "Yamuna flood waters touch Taj Mahal walls for first time in 45 years",
+        "text": "The Taj Mahal was developed in such a way that water cannot enter the main mausoleum even during high floods, an ASI official said. (File photo)\n\nFor the first time in 45 years, Yamuna river's flood waters reached the walls of the Taj Mahal in Agra, leaving the garden behind it submerged. The water, however, is unlikely to enter the main monument thanks to its design, Archaeological Survey of India (ASI) stated.'The Taj Mahal was developed in such a way that water cannot enter the main mausoleum even during high floods. The last time the Yamuna touched the back wall of the Taj Mahal was during high floods in 1978,' Prince Vajpayee, conservation assistant at ASI, told the media.Incessant rains have led to an alarming rise in Yamuna's water level and flooded the adjacent Dussehra Ghat and even the outer parts of Itimad-ud-Daula's tomb, located nearby.ASI officials claimed that other monuments that risk being affected by Yamuna's floodwaters such as Rambagh, Mehtab Bagh, Zohra Bagh 'have suffered no damage so far and that flood waters had not entered the basement of the Taj'.",
+        "tags": [
+            "building ",
+            " reflection ",
+            " pond ",
+            " water ",
+            " bird ",
+            " structure ",
+            " sit ",
+            " stand"
+        ],
+        "caption": "a bird standing in front of a building with its reflection in the water",
+        "sff1": "Neutral : ",
+        "sentiment_disp_value": 6.5,
+        "sentiment_filled_bg": "green",
+        "sentiment_empty_bg": "green.100",
+        "iab_safety_response_msg": "",
+        "iab_response_msg": "",
+        "pff1": "Here is a list of top 10 global brands whose tone of voice may resonate with the given image tags:",
+        "pfl1": "These brands were chosen based on their association with nature, travel, technology, or luxury, which could potentially align with the image tags provided.",
+        "pff2": "Here is a list of top 10 Indian brands whose tone of voice may resonate with the given image tags:",
+        "pfl2": "These brands were selected based on their prominence in the Indian market and their association with various sectors, such as conglomerates, automotive, information technology, banking, and telecommunications.",
+        "pff3": "Here is a suggested list of top 10 global website inventories along with their corresponding IAB categories where the above-mentioned brand ads can potentially be run:",
+        "pfl3": "Please note that availability of ad inventory and suitability for specific brands may vary, so it's important to conduct proper research and analysis before selecting specific websites for advertising campaigns.",
+        "pff4": "Here is a suggested list of top 10 Indian website inventories along with their corresponding IAB categories where the brand ads can potentially be run:",
+        "pfl4": "Please note that ad inventory availability and suitability for specific brands may vary, thus it is essential to conduct thorough research and analysis to select the most suitable websites for advertising campaigns.",
+        "pff5": "Here is a suggested list of top 10 news website inventories along with their corresponding IAB categories where the brand ads can potentially be run:",
+        "pfl5": "Please note that availability of ad inventory and suitability for specific brands may vary, so it's important to conduct proper research and analysis before selecting specific websites for advertising campaigns.",
+        "pff6": "Here is a suggested list of top 10 Indian news website inventories along with their corresponding IAB categories where the brand ads can potentially be run:",
+        "pfl6": "Please note that availability of ad inventory and suitability for specific brands may vary, so it's important to conduct proper research and analysis before selecting specific websites for advertising campaigns.",
+        "local_image": "data/images/image_5.jpg"
+    },
+    {
+        "keyword_list": [
+            {
+                "Keywords": "1. Yamuna river"
+            },
+            {
+                "Keywords": "2. Mathura district"
+            },
+            {
+                "Keywords": "3. Flood water"
+            },
+            {
+                "Keywords": "4. Danger mark"
+            },
+            {
+                "Keywords": "5. Devotees"
+            },
+            {
+                "Keywords": "6. Religious sites"
+            },
+            {
+                "Keywords": "7. Vishram Ghat"
+            },
+            {
+                "Keywords": "8. Submerged stairs"
+            },
+            {
+                "Keywords": "9. Daily aarti"
+            },
+            {
+                "Keywords": "10. NDRF"
+            }
+        ],
+        "df": [
+            {
+                "IAB Category": "Architectural Design         "
+            },
+            {
+                "IAB Category": "Arts & Entertainment         "
+            },
+            {
+                "IAB Category": "Travel & Tourism             "
+            },
+            {
+                "IAB Category": "Religion & Spirituality      "
+            },
+            {
+                "IAB Category": "Urban Planning & Development "
+            },
+            {
+                "IAB Category": "Landmarks & Monuments        "
+            },
+            {
+                "IAB Category": "Recreation & Leisure         "
+            },
+            {
+                "IAB Category": "Historical Sites             "
+            },
+            {
+                "IAB Category": "Cultural Heritage            "
+            },
+            {
+                "IAB Category": "Waterfront                   "
+            }
+        ],
+        "df1": [
+            {
+                "Brand Names": " Nike              "
+            },
+            {
+                "Brand Names": " Apple             "
+            },
+            {
+                "Brand Names": " Google            "
+            },
+            {
+                "Brand Names": " Coca-Cola         "
+            },
+            {
+                "Brand Names": " Amazon            "
+            },
+            {
+                "Brand Names": " Microsoft         "
+            },
+            {
+                "Brand Names": " Disney            "
+            },
+            {
+                "Brand Names": " BMW               "
+            },
+            {
+                "Brand Names": " Samsung           "
+            },
+            {
+                "Brand Names": " Louis Vuitton     "
+            }
+        ],
+        "df2": [
+            {
+                "Brand Names": " Taj Hotels        "
+            },
+            {
+                "Brand Names": " Tata Group        "
+            },
+            {
+                "Brand Names": " Mahindra & Mahindra "
+            },
+            {
+                "Brand Names": " Reliance Industries "
+            },
+            {
+                "Brand Names": " HDFC Bank         "
+            },
+            {
+                "Brand Names": " Godrej            "
+            },
+            {
+                "Brand Names": " Larsen & Toubro   "
+            },
+            {
+                "Brand Names": " Britannia         "
+            },
+            {
+                "Brand Names": " Maruti Suzuki     "
+            },
+            {
+                "Brand Names": " Infosys           "
+            }
+        ],
+        "df3": [
+            {
+                "Website Name": "Architectural Digest",
+                "IAB Category": "Architectural Design"
+            },
+            {
+                "Website Name": "IMDb",
+                "IAB Category": "Arts & Entertainment"
+            },
+            {
+                "Website Name": "Expedia",
+                "IAB Category": "Travel & Tourism"
+            },
+            {
+                "Website Name": "Church Times",
+                "IAB Category": "Religion & Spirituality"
+            },
+            {
+                "Website Name": "CityLab",
+                "IAB Category": "Urban Planning & Development"
+            },
+            {
+                "Website Name": "World Monuments Fund",
+                "IAB Category": "Landmarks & Monuments"
+            },
+            {
+                "Website Name": "National Geographic",
+                "IAB Category": "Recreation & Leisure"
+            },
+            {
+                "Website Name": "Wikipedia",
+                "IAB Category": "Historical Sites"
+            },
+            {
+                "Website Name": "British Museum",
+                "IAB Category": "Cultural Heritage"
+            },
+            {
+                "Website Name": "Waterfront Toronto",
+                "IAB Category": "Waterfront"
+            }
+        ],
+        "df4": [
+            {
+                "Website Name": "Architectural Digest India",
+                "IAB Category": "Architectural Design"
+            },
+            {
+                "Website Name": "BookMyShow",
+                "IAB Category": "Arts & Entertainment"
+            },
+            {
+                "Website Name": "MakeMyTrip",
+                "IAB Category": "Travel & Tourism"
+            },
+            {
+                "Website Name": "Speaking Tree",
+                "IAB Category": "Religion & Spirituality"
+            },
+            {
+                "Website Name": "Magicbricks",
+                "IAB Category": "Urban Planning & Development"
+            },
+            {
+                "Website Name": "Indian Heritage Sites",
+                "IAB Category": "Landmarks & Monuments"
+            },
+            {
+                "Website Name": "Discovery India",
+                "IAB Category": "Recreation & Leisure"
+            },
+            {
+                "Website Name": "Wikipedia India",
+                "IAB Category": "Historical Sites"
+            },
+            {
+                "Website Name": "Indian Cultural Forum",
+                "IAB Category": "Cultural Heritage"
+            },
+            {
+                "Website Name": "Mumbai Port Trust",
+                "IAB Category": "Waterfront"
+            }
+        ],
+        "df5": [
+            {
+                "Website Name": "The New York Times",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "CNN",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "BBC News",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "The Guardian",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "Reuters",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "Al Jazeera",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "ABC News",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "Times of India",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "The Washington Post",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "NDTV",
+                "IAB Category": "News"
+            }
+        ],
+        "df6": [
+            {
+                "Website Name": "NDTV",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "Times of India",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "The Hindu",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "India Today",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "Hindustan Times",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "Indian Express",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "ABP News",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "Moneycontrol",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "Zee News",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "Republic World",
+                "IAB Category": "News"
+            }
+        ],
+        "url": "https://www.hindustantimes.com/cities/lucknow-news/yamuna-river-floods-mathura-and-vrindavan-devotees-struggle-as-religious-sites-submerged-101689616287711.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2023/07/17/1600x900/The-famous-Vishram-Ghat-submerged-in-flood-water-i_1689616282744.jpg",
+        "title": "U.P.: Rising Yamuna floods Mathura, Vrindavan",
+        "text": "The water level in the Yamuna in Uttar Pradesh\u2019s Mathura district continued to be above the danger mark for the third day in a row on Monday. Due to this, devotees reaching the twin cities of Mathura and Vrindavan had a tough time as the flood water inundated religious sites. These sites include Mathura\u2019s most prominent Vishram Ghat where water has entered the temples and submerged stairs.So much so that daily \u201caarti\u201d is being performed at a makeshift site. The Yamuna water level in Mathura that touched 166.08 metres, slightly above the danger mark of 166 metres, on July 15, rose to 167.28 metres on Monday (July 17).Mathura is facing flood because of water released in the Yamuna from Okhla Barrage in Delhi. Road leading to Bengali Ghat from Vishram Ghat was waterlogged on Monday\u201cWe are making announcements in low lying area asking people to avoid going near the river flowing at a high speed. Two companies of NDRF are in action and till Sunday, 400 people from flood affected villages had been shifted to shelter homes through eight boats deployed for the exercise,\u201d said Mathura district magistrate Pulkit Khare.Devotees are not able to lodge \u2018parikrama\u2019 (circumambulation) at Vrindavan with 12-kilometre-long track having waterlogging between Varah ghat and Chamunda Devi temple in Vrindavan. Local police are found moving on boat on the parikrama route in Vrindavan these days.\u201cParikrama (circumambulation) has been stopped in Vrindavan because of Yamuna water reaching the track of parikrama route. Although the Yamuna is flowing above the danger mark in Mathura, it is hoped that things might settle soon,\u201d said ADM (finance and revenue), Mathura, Yoganand Pandey.",
+        "tags": [
+            "building ",
+            " pillar ",
+            " city ",
+            " water ",
+            " temple ",
+            " large"
+        ],
+        "caption": "a city with large pillars in the water",
+        "sff1": "Negative : ",
+        "sentiment_disp_value": 2.5,
+        "sentiment_filled_bg": "red",
+        "sentiment_empty_bg": "red.100",
+        "iab_safety_response_msg": "",
+        "iab_response_msg": "",
+        "pff1": "Here is a table listing the top 10 global brands whose tone of voice may resonate with the given image tags: building, pillar, city, water, temple, large.",
+        "pfl1": "Please note that the selection of these brands is subjective and based on the perception of their tone of voice, which may align with the given tags.",
+        "pff2": "Here is a table listing the top 10 Indian brands whose tone of voice may resonate with the given image tags: building, pillar, city, water, temple, large.",
+        "pfl2": "Please note that the selection of these brands is subjective and based on the perception of their tone of voice, which may align with the given tags.",
+        "pff3": "Here is a table with a list of top 10 global website inventory along with their respective IAB categories for running ads related to the brands and image tags provided:",
+        "pfl3": "Please note that the selection of websites is subjective and based on their relevance to the given tags and brand ads.",
+        "pff4": "Here is a table with a list of top 10 Indian website inventory along with their respective IAB categories for running brand ads related to the given tags:",
+        "pfl4": "Please note that the selection of websites is subjective and based on their relevance to the given tags and brand ads within the Indian context.",
+        "pff5": "Here is a table with a list of top 10 news website inventory along with their respective IAB categories for running brand ads related to news content:",
+        "pfl5": "Please note that the selection of websites is subjective and based on their reputation and popularity as news sources.",
+        "pff6": "Here is a table with a list of top 10 Indian news website inventory along with their respective IAB categories for running brand ads related to news content:",
+        "pfl6": "Please note that the selection of websites is subjective and based on their reputation, popularity, and relevance as news sources in the Indian context.",
+        "local_image": "data/images/image_6.jpg"
+    },
+    {
+        "keyword_list": [
+            {
+                "Keywords": "1. Victoria"
+            },
+            {
+                "Keywords": "2. Commonwealth Games"
+            },
+            {
+                "Keywords": "3. Hosting"
+            },
+            {
+                "Keywords": "4. Cost blow-outs"
+            },
+            {
+                "Keywords": "5. Daniel Andrews"
+            },
+            {
+                "Keywords": "6. Press conference"
+            },
+            {
+                "Keywords": "7. Funding"
+            },
+            {
+                "Keywords": "8. Terminate contract"
+            },
+            {
+                "Keywords": "9. Regional hubs"
+            },
+            {
+                "Keywords": "10. Support package"
+            }
+        ],
+        "df": [
+            {
+                "IAB Category": "Politics & Government"
+            },
+            {
+                "IAB Category": "Eyewear               "
+            },
+            {
+                "IAB Category": "Body Parts            "
+            },
+            {
+                "IAB Category": "People & Society      "
+            }
+        ],
+        "df1": [
+            {
+                "Brand Names": " CNN         "
+            },
+            {
+                "Brand Names": " The New York Times "
+            },
+            {
+                "Brand Names": " BBC News    "
+            },
+            {
+                "Brand Names": " The Guardian "
+            },
+            {
+                "Brand Names": " Reuters     "
+            },
+            {
+                "Brand Names": " Bloomberg   "
+            },
+            {
+                "Brand Names": " Politico    "
+            },
+            {
+                "Brand Names": " Al Jazeera  "
+            },
+            {
+                "Brand Names": " Fox News    "
+            },
+            {
+                "Brand Names": " NBC News    "
+            }
+        ],
+        "df2": [
+            {
+                "Brand Names": " Times of India     "
+            },
+            {
+                "Brand Names": " Hindustan Times    "
+            },
+            {
+                "Brand Names": " Indian Express     "
+            },
+            {
+                "Brand Names": " NDTV               "
+            },
+            {
+                "Brand Names": " Republic TV        "
+            },
+            {
+                "Brand Names": " Aaj Tak            "
+            },
+            {
+                "Brand Names": " ABP News           "
+            },
+            {
+                "Brand Names": " Zee News           "
+            },
+            {
+                "Brand Names": " India Today        "
+            },
+            {
+                "Brand Names": " CNN-News18         "
+            }
+        ],
+        "df3": [
+            {
+                "Website Name": "www.politico.com",
+                "IAB Category": "Politics & Government"
+            },
+            {
+                "Website Name": "www.cnn.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.bbc.co.uk",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.nytimes.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.reuters.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.theguardian.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.bloomberg.com",
+                "IAB Category": "Business"
+            },
+            {
+                "Website Name": "www.aljazeera.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.foxnews.com",
+                "IAB Category": "Entertainment"
+            },
+            {
+                "Website Name": "www.nbcnews.com",
+                "IAB Category": "News"
+            }
+        ],
+        "df4": [
+            {
+                "Website Name": "www.timesofindia.indiatimes.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.hindustantimes.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.indianexpress.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.ndtv.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.republicworld.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.aajtak.in",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.abplive.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.zeenews.india.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.indiatoday.in",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.news18.com",
+                "IAB Category": "News"
+            }
+        ],
+        "df5": [
+            {
+                "Website Name": "www.cnn.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.bbc.co.uk",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.nytimes.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.reuters.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.theguardian.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.aljazeera.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.foxnews.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.nbcnews.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.timesofindia.indiatimes.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.hindustantimes.com",
+                "IAB Category": "News"
+            }
+        ],
+        "df6": [
+            {
+                "Website Name": "www.timesofindia.indiatimes.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.hindustantimes.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.indianexpress.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.ndtv.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.news18.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.republicworld.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.indiatoday.in",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.thehindu.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.moneycontrol.com",
+                "IAB Category": "News"
+            },
+            {
+                "Website Name": "www.business-standard.com",
+                "IAB Category": "News"
+            }
+        ],
+        "url": "https://www.thehindu.com/sport/commonwealth-games-in-limbo-as-australia-pulls-out-as-2026-host/article67092809.ece",
+        "image": "https://th-i.thgim.com/public/incoming/aqli4n/article67092816.ece/alternates/LANDSCAPE_1200/AFP_33P88JK.jpg",
+        "title": "Commonwealth Games in limbo as Australia pulls out as 2026 host",
+        "text": "July 18, 2023 09:27 am | Updated 09:27 am IST - Melbourne\n\nThe Australian State of Victoria pulled out of hosting the 2026 Commonwealth Games on Tuesday, July 18, 2023 citing major cost blow-outs, leaving organisers fuming as they scrambled to keep the multi-sport event afloat.\n\nState Premier Daniel Andrews said the initial estimated Aus$2 billion (US$1.36 billion) needed to hold the Games would more likely be around Aus$7 billion, which he called \"well and truly too much\".\n\n\"I've made a lot of difficult calls, a lot of very difficult decisions in this job. This is not one of them. Frankly, $7 billion for a sporting event, we are not doing that,\" he said at a press conference in Melbourne.\n\n\"I will not take money out of hospitals and schools to host an event that is three times the cost estimated and budgeted for last year.\n\n\"The Games will not proceed in Victoria in 2026. We have informed Commonwealth Games authorities of our decision to seek to terminate the contract,\" he added.\n\nThe",
+        "tags": [
+            "politician ",
+            " glass ",
+            " finger ",
+            " person ",
+            " man"
+        ],
+        "caption": "a man with glasses who is pointing his finger",
+        "sff1": "Negative - ",
+        "sentiment_disp_value": 3.5,
+        "sentiment_filled_bg": "red",
+        "sentiment_empty_bg": "red.100",
+        "iab_safety_response_msg": "",
+        "iab_response_msg": "",
+        "pff1": "Here are the top 10 global brands whose tone of voice might resonate with the given image tags:",
+        "pfl1": "These brands are well-known for their coverage of politics, news, and current events, which may align with the image tags provided. Please note that this is a subjective assessment and the actual tone of voice may vary between different articles or pieces of content published by these brands.",
+        "pff2": "Here are the top 10 Indian brands whose tone of voice might resonate with the given image tags:",
+        "pfl2": "These brands are popular media outlets in India that cover politics and news, and their tone of voice may align with the image tags provided. Please note that this is a subjective assessment and the actual tone of voice may vary between different articles or pieces of content published by these brands.",
+        "pff3": "Here is a list of top 10 global website inventory along with their corresponding IAB categories where you can consider running the ads for the above-mentioned brands:",
+        "pfl3": "Please note that this is just a suggested list and the actual suitability of these websites for brand advertising should be evaluated based on their specific target audience, content, and advertising goals.",
+        "pff4": "Here is a list of top 10 Indian website inventory along with their corresponding IAB categories where you can consider running the ads for the specified Indian brands:",
+        "pfl4": "Please note that this is just a suggested list and the actual suitability of these websites for brand advertising should be evaluated based on the target audience, content, and advertising objectives of the brands involved.",
+        "pff5": "Here is a list of top 10 news website inventory along with their corresponding IAB categories where you can consider running the brand ads:",
+        "pfl5": "Please note that this is a diverse selection of news websites covering international, national, and regional news. The actual suitability of these websites for brand advertising should be evaluated based on the specific target audience, geographic relevance, and the advertising goals of the brands involved.",
+        "pff6": "Here is a list of top 10 Indian news website inventory along with their corresponding IAB categories where you can consider running the brand ads:",
+        "pfl6": "Please note that this is a diverse selection of Indian news websites covering a range of topics. The actual suitability of these websites for brand advertising should be evaluated based on the specific target audience, the content focus, and the advertising objectives of the brands involved.",
+        "local_image": "data/images/image_7.jpg"
+    },
+]
